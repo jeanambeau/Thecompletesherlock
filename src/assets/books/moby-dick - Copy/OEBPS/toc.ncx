@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:" content="Aspose"/>
+    <meta name="dtb:generator" content="EPUBLib version 3.0"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  <meta content="9781300585343" name="dtb:uid"/></head>
+  <docTitle>
+    <text>Sherlock Holmes: The Complete Novels and Stories Vol 1</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ambeau, Jean</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>untitled</text>
+      </navLabel>
+      <content src="item_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>A study in scarlet PART I.</text>
+      </navLabel>
+      <content src="item_057.html#navPoint_1"/>
+      <navPoint id="navPoint-3" playOrder="3" class="chapter">
+        <navLabel>
+          <text>CHAPTER I  MR. SHERLOCK HOLMES.</text>
+        </navLabel>
+        <content src="item_002.html#navPoint_2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4" class="chapter">
+        <navLabel>
+          <text>CHAPTER II THE SCIENCE OF DEDUCTION</text>
+        </navLabel>
+        <content src="item_056.html#navPoint_3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5" class="chapter">
+        <navLabel>
+          <text>CHAPTER III THE LAURISTON GARDEN MYSTERY</text>
+        </navLabel>
+        <content src="item_035.html#navPoint_4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6" class="chapter">
+        <navLabel>
+          <text>CHAPTER IV WHAT JOHN RANCE HAD TO TELL</text>
+        </navLabel>
+        <content src="item_045.html#navPoint_5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7" class="chapter">
+        <navLabel>
+          <text>CHAPTER V OUR ADVERTISEMENT BRINGS A VISITOR</text>
+        </navLabel>
+        <content src="item_017.html#navPoint_6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8" class="chapter">
+        <navLabel>
+          <text>CHAPTER VI TOBIAS GREGSON SHOWS WHAT HE CAN DO</text>
+        </navLabel>
+        <content src="item_037.html#navPoint_7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>CHAPTER VII LIGHT IN THE DARKNESS</text>
+        </navLabel>
+        <content src="item_013.html#navPoint_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10" class="chapter">
+      <navLabel>
+        <text>PART II The Country of the Saints</text>
+      </navLabel>
+      <content src="item_058.html#navPoint_9"/>
+      <navPoint id="navPoint-11" playOrder="11" class="chapter">
+        <navLabel>
+          <text>CHAPTER I ON THE GREAT ALKALI PLAIN</text>
+        </navLabel>
+        <content src="item_009.html#navPoint_10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12" class="chapter">
+        <navLabel>
+          <text>CHAPTER II THE FLOWER OF UTAH</text>
+        </navLabel>
+        <content src="item_042.html#navPoint_11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13" class="chapter">
+        <navLabel>
+          <text>CHAPTER III JOHN FERRIER TALKS WITH THE PROPHET</text>
+        </navLabel>
+        <content src="item_012.html#navPoint_12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14" class="chapter">
+        <navLabel>
+          <text>CHAPTER IV A FLIGHT FOR LIFE</text>
+        </navLabel>
+        <content src="item_034.html#navPoint_13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15" class="chapter">
+        <navLabel>
+          <text>CHAPTER V THE AVENGING ANGELS</text>
+        </navLabel>
+        <content src="item_066.html#navPoint_14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16" class="chapter">
+        <navLabel>
+          <text>CHAPTER VI A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D</text>
+        </navLabel>
+        <content src="item_027.html#navPoint_15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17" class="chapter">
+        <navLabel>
+          <text>CHAPTER VII THE CONCLUSION</text>
+        </navLabel>
+        <content src="item_054.html#navPoint_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18" class="chapter">
+      <navLabel>
+        <text>The Sign of the Four CHAPTER 1</text>
+      </navLabel>
+      <content src="item_011.html#navPoint_17"/>
+      <navPoint id="navPoint-19" playOrder="19" class="chapter">
+        <navLabel>
+          <text>Chapter II The Statement of the Case</text>
+        </navLabel>
+        <content src="item_051.html#navPoint_18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20" class="chapter">
+        <navLabel>
+          <text>Chapter III In Quest of a Solution</text>
+        </navLabel>
+        <content src="item_030.html#navPoint_19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21" class="chapter">
+        <navLabel>
+          <text>Chapter IV The Story of the Bald-Headed Man</text>
+        </navLabel>
+        <content src="item_028.html#navPoint_20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22" class="chapter">
+        <navLabel>
+          <text>Chapter V The Tragedy of Pondicherry Lodge</text>
+        </navLabel>
+        <content src="item_033.html#navPoint_21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23" class="chapter">
+        <navLabel>
+          <text>Chapter VI Sherlock Holmes Gives a Demonstration</text>
+        </navLabel>
+        <content src="item_031.html#navPoint_22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24" class="chapter">
+        <navLabel>
+          <text>Chapter VII The Episode of the Barrel</text>
+        </navLabel>
+        <content src="item_068.html#navPoint_23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25" class="chapter">
+        <navLabel>
+          <text>Chapter VIII The Baker Street Irregulars</text>
+        </navLabel>
+        <content src="item_038.html#navPoint_24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26" class="chapter">
+        <navLabel>
+          <text>Chapter IX A Break in the Chain</text>
+        </navLabel>
+        <content src="item_006.html#navPoint_25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27" class="chapter">
+        <navLabel>
+          <text>Chapter X The End of the Islander</text>
+        </navLabel>
+        <content src="item_059.html#navPoint_26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28" class="chapter">
+        <navLabel>
+          <text>Chapter XI The Great Agra Treasure</text>
+        </navLabel>
+        <content src="item_022.html#navPoint_27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29" class="chapter">
+        <navLabel>
+          <text>Chapter XII The Strange Story of Jonathan Small</text>
+        </navLabel>
+        <content src="item_036.html#navPoint_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30" class="chapter">
+      <navLabel>
+        <text>ADVENTURE OF SHERLOCK HOLMES</text>
+      </navLabel>
+      <content src="item_004.html#navPoint_29"/>
+      <navPoint id="navPoint-31" playOrder="31" class="chapter">
+        <navLabel>
+          <text>CHAPTER I  A SCANDAL IN BOHEMIA</text>
+        </navLabel>
+        <content src="item_005.html#navPoint_30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32" class="chapter">
+        <navLabel>
+          <text>CHAPTER II THE RED-HEADED LEAGUE</text>
+        </navLabel>
+        <content src="item_021.html#navPoint_31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33" class="chapter">
+        <navLabel>
+          <text>CHAPTER III A CASE OF IDENTITY</text>
+        </navLabel>
+        <content src="item_001.html#navPoint_32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34" class="chapter">
+        <navLabel>
+          <text>CHAPTER IV THE BOSCOMBE VALLEY MYSTERY</text>
+        </navLabel>
+        <content src="item_046.html#navPoint_33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35" class="chapter">
+        <navLabel>
+          <text>CHAPTER V THE FIVE ORANGE PIPS</text>
+        </navLabel>
+        <content src="item_060.html#navPoint_34"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36" class="chapter">
+        <navLabel>
+          <text>CHAPTER VII THE ADVENTURE OF THE BLUE CARBUNCLE</text>
+        </navLabel>
+        <content src="item_048.html#navPoint_35"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37" class="chapter">
+        <navLabel>
+          <text>CHAPTER VIII THE ADVENTURE OF THE SPECKLED BAND</text>
+        </navLabel>
+        <content src="item_039.html#navPoint_36"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38" class="chapter">
+        <navLabel>
+          <text>CHAPTER IX THE ADVENTURE OF THE ENGINEER'S THUMB</text>
+        </navLabel>
+        <content src="item_024.html#navPoint_37"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39" class="chapter">
+        <navLabel>
+          <text>CHAPTER X THE ADVENTURE OF THE NOBLE BACHELOR</text>
+        </navLabel>
+        <content src="item_014.html#navPoint_38"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40" class="chapter">
+        <navLabel>
+          <text>CHAPTER XI THE ADVENTURE OF THE BERYL CORONET</text>
+        </navLabel>
+        <content src="item_043.html#navPoint_39"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41" class="chapter">
+        <navLabel>
+          <text>CHAPTER XII THE ADVENTURE OF THE COPPER BEECHES</text>
+        </navLabel>
+        <content src="item_052.html#navPoint_40"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42" class="chapter">
+      <navLabel>
+        <text>THE RETURN OF SHERLOCK HOLMES</text>
+      </navLabel>
+      <content src="item_044.html#navPoint_41"/>
+      <navPoint id="navPoint-43" playOrder="43" class="chapter">
+        <navLabel>
+          <text>Chapter I The Adventure of the Empty House</text>
+        </navLabel>
+        <content src="item_025.html#navPoint_42"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44" class="chapter">
+        <navLabel>
+          <text>CHAPTER II The Adventure of the Norwood Builder</text>
+        </navLabel>
+        <content src="item_053.html#navPoint_43"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45" class="chapter">
+        <navLabel>
+          <text>CHAPTER III The Adventure of the Dancing Men</text>
+        </navLabel>
+        <content src="item_007.html#navPoint_44"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46" class="chapter">
+        <navLabel>
+          <text>CHAPTER IV The Adventure of the Solitary Cyclist</text>
+        </navLabel>
+        <content src="item_063.html#navPoint_45"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47" class="chapter">
+        <navLabel>
+          <text>CHAPTER V The Adventure of the Priory School</text>
+        </navLabel>
+        <content src="item_008.html#navPoint_46"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48" class="chapter">
+        <navLabel>
+          <text>CHAPTERVI The Adventure of Black Peter</text>
+        </navLabel>
+        <content src="item_061.html#navPoint_47"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49" class="chapter">
+        <navLabel>
+          <text>CHAPTERVII The Adventure of Charles Augustus Milverton</text>
+        </navLabel>
+        <content src="item_026.html#navPoint_48"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50" class="chapter">
+        <navLabel>
+          <text>CHAPTERVIII The Adventure of the Six Napoleons</text>
+        </navLabel>
+        <content src="item_062.html#navPoint_49"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51" class="chapter">
+        <navLabel>
+          <text>CHAPTER IX The Adventure of the Golden Pince-Nez</text>
+        </navLabel>
+        <content src="item_064.html#navPoint_50"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52" class="chapter">
+        <navLabel>
+          <text>CHAPTER X</text>
+        </navLabel>
+        <content src="item_019.html#navPoint_51"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53" class="chapter">
+        <navLabel>
+          <text>The Adventure of the Missing Three-Quarter</text>
+        </navLabel>
+        <content src="item_029.html#navPoint_52"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54" class="chapter">
+        <navLabel>
+          <text>CHAPTER XI The Adventure of the Abbey Grange</text>
+        </navLabel>
+        <content src="item_032.html#navPoint_53"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55" class="chapter">
+        <navLabel>
+          <text>CHAPTER XII The Adventure of the Second Stain</text>
+        </navLabel>
+        <content src="item_016.html#navPoint_54"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56" class="chapter">
+      <navLabel>
+        <text>The Memoirs of Sherlock Holmes</text>
+      </navLabel>
+      <content src="item_020.html#navPoint_55"/>
+      <navPoint id="navPoint-57" playOrder="57" class="chapter">
+        <navLabel>
+          <text>Chapter I Silver Blaze</text>
+        </navLabel>
+        <content src="item_065.html#navPoint_56"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58" class="chapter">
+        <navLabel>
+          <text>CHAPTER II The Yellow Face</text>
+        </navLabel>
+        <content src="item_067.html#navPoint_57"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59" class="chapter">
+        <navLabel>
+          <text>CHAPTER III The Stock-Broker's Clerk</text>
+        </navLabel>
+        <content src="item_015.html#navPoint_58"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60" class="chapter">
+        <navLabel>
+          <text>CHAPTER IV The Gloria Scott</text>
+        </navLabel>
+        <content src="item_040.html#navPoint_59"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61" class="chapter">
+        <navLabel>
+          <text>CHAPTER V The Musgrave Ritual</text>
+        </navLabel>
+        <content src="item_023.html#navPoint_60"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62" class="chapter">
+        <navLabel>
+          <text>CHAPTERVI The Reigate Puzzle</text>
+        </navLabel>
+        <content src="item_050.html#navPoint_61"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63" class="chapter">
+        <navLabel>
+          <text>CHAPTER VII The Crooked Man</text>
+        </navLabel>
+        <content src="item_055.html#navPoint_62"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64" class="chapter">
+        <navLabel>
+          <text>CHAPTER VIII The Resident Patient</text>
+        </navLabel>
+        <content src="item_010.html#navPoint_63"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65" class="chapter">
+        <navLabel>
+          <text>CHAPTER IX The Greek Interpreter</text>
+        </navLabel>
+        <content src="item_049.html#navPoint_64"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66" class="chapter">
+        <navLabel>
+          <text>CHAPTER X The Naval Treaty</text>
+        </navLabel>
+        <content src="item_041.html#navPoint_65"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67" class="chapter">
+        <navLabel>
+          <text>CHAPTER XI The Final Problem</text>
+        </navLabel>
+        <content src="item_047.html#navPoint_66"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

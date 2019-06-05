@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opf:package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" unique-identifier="BookId">
+  <opf:metadata>
+    
+    
+    
+    
+    <dc:contributor opf:role="bkp" opf:file-as="10.6.0.0, Aspose.Words for .NET">Aspose.Words for .NET 10.6.0.0</dc:contributor>
+    <dc:date opf:event="creation">2012-12-30</dc:date>
+    <dc:date opf:event="modification">2012-12-31</dc:date>
+    <dc:date opf:event="publication">2012-12-31</dc:date>
+    <dc:language>en</dc:language>
+    <opf:meta name="generator" content="EPUBLib version 3.0"/>
+  <dc:title>Sherlock Holmes: The Complete Novels and Stories Vol 1</dc:title><dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator><dc:publisher>Lulu.com</dc:publisher><dc:identifier id="BookId" opf:scheme="ISBN">9781300585343</dc:identifier></opf:metadata>
+  <opf:manifest>
+    <opf:item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <opf:item id="item_001" href="item_001.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_002" href="item_002.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_003" href="item_003.css" media-type="text/css"/>
+    <opf:item id="item_004" href="item_004.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_005" href="item_005.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_006" href="item_006.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_007" href="item_007.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_008" href="item_008.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_009" href="item_009.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_010" href="item_010.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_011" href="item_011.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_012" href="item_012.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_013" href="item_013.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_014" href="item_014.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_015" href="item_015.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_016" href="item_016.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_017" href="item_017.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_018" href="item_018.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_019" href="item_019.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_020" href="item_020.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_021" href="item_021.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_022" href="item_022.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_023" href="item_023.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_024" href="item_024.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_025" href="item_025.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_026" href="item_026.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_027" href="item_027.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_028" href="item_028.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_029" href="item_029.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_030" href="item_030.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_031" href="item_031.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_032" href="item_032.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_033" href="item_033.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_034" href="item_034.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_035" href="item_035.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_036" href="item_036.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_037" href="item_037.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_038" href="item_038.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_039" href="item_039.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_040" href="item_040.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_041" href="item_041.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_042" href="item_042.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_043" href="item_043.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_044" href="item_044.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_045" href="item_045.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_046" href="item_046.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_047" href="item_047.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_048" href="item_048.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_049" href="item_049.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_050" href="item_050.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_051" href="item_051.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_052" href="item_052.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_053" href="item_053.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_054" href="item_054.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_055" href="item_055.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_056" href="item_056.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_057" href="item_057.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_058" href="item_058.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_059" href="item_059.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_060" href="item_060.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_061" href="item_061.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_062" href="item_062.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_063" href="item_063.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_064" href="item_064.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_065" href="item_065.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_066" href="item_066.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_067" href="item_067.html" media-type="application/xhtml+xml"/>
+    <opf:item id="item_068" href="item_068.html" media-type="application/xhtml+xml"/>
+  </opf:manifest>
+  <opf:spine toc="ncx">
+    <opf:itemref idref="item_018"/>
+    <opf:itemref idref="item_057"/>
+    <opf:itemref idref="item_002"/>
+    <opf:itemref idref="item_056"/>
+    <opf:itemref idref="item_035"/>
+    <opf:itemref idref="item_045"/>
+    <opf:itemref idref="item_017"/>
+    <opf:itemref idref="item_037"/>
+    <opf:itemref idref="item_013"/>
+    <opf:itemref idref="item_058"/>
+    <opf:itemref idref="item_009"/>
+    <opf:itemref idref="item_042"/>
+    <opf:itemref idref="item_012"/>
+    <opf:itemref idref="item_034"/>
+    <opf:itemref idref="item_066"/>
+    <opf:itemref idref="item_027"/>
+    <opf:itemref idref="item_054"/>
+    <opf:itemref idref="item_011"/>
+    <opf:itemref idref="item_051"/>
+    <opf:itemref idref="item_030"/>
+    <opf:itemref idref="item_028"/>
+    <opf:itemref idref="item_033"/>
+    <opf:itemref idref="item_031"/>
+    <opf:itemref idref="item_068"/>
+    <opf:itemref idref="item_038"/>
+    <opf:itemref idref="item_006"/>
+    <opf:itemref idref="item_059"/>
+    <opf:itemref idref="item_022"/>
+    <opf:itemref idref="item_036"/>
+    <opf:itemref idref="item_004"/>
+    <opf:itemref idref="item_005"/>
+    <opf:itemref idref="item_021"/>
+    <opf:itemref idref="item_001"/>
+    <opf:itemref idref="item_046"/>
+    <opf:itemref idref="item_060"/>
+    <opf:itemref idref="item_048"/>
+    <opf:itemref idref="item_039"/>
+    <opf:itemref idref="item_024"/>
+    <opf:itemref idref="item_014"/>
+    <opf:itemref idref="item_043"/>
+    <opf:itemref idref="item_052"/>
+    <opf:itemref idref="item_044"/>
+    <opf:itemref idref="item_025"/>
+    <opf:itemref idref="item_053"/>
+    <opf:itemref idref="item_007"/>
+    <opf:itemref idref="item_063"/>
+    <opf:itemref idref="item_008"/>
+    <opf:itemref idref="item_061"/>
+    <opf:itemref idref="item_026"/>
+    <opf:itemref idref="item_062"/>
+    <opf:itemref idref="item_064"/>
+    <opf:itemref idref="item_019"/>
+    <opf:itemref idref="item_029"/>
+    <opf:itemref idref="item_032"/>
+    <opf:itemref idref="item_016"/>
+    <opf:itemref idref="item_020"/>
+    <opf:itemref idref="item_065"/>
+    <opf:itemref idref="item_067"/>
+    <opf:itemref idref="item_015"/>
+    <opf:itemref idref="item_040"/>
+    <opf:itemref idref="item_023"/>
+    <opf:itemref idref="item_050"/>
+    <opf:itemref idref="item_055"/>
+    <opf:itemref idref="item_010"/>
+    <opf:itemref idref="item_049"/>
+    <opf:itemref idref="item_041"/>
+    <opf:itemref idref="item_047"/>
+  </opf:spine>
+  <opf:guide/>
+</opf:package>
