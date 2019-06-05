@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="de.janpiotrowski.ionic.epubjs" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>ionic-epubjs</name>
-    <description>Ionic app using epubjs.</description>
+    <name>the complete Sherlock Holmes</name>
+    <description>Sherlock Holmes is a fictional detective of the late 19th and early 20th centuries, who first appeared in publication in 1887. He is the creation of Scottish born author and physician Sir Arthur Conan Doyle. A brilliant London-based detective, Holmes is famous for his intellectual prowess, and is renowned for his skillful use of deductive reasoning (somewhat mistakenly - see inductive reasoning) and astute observation to solve difficult cases. He is arguably the most famous fictional detective</description>
     <author email="piotrowski@gmail.com" href="https://janpiotrowski.de/">Jan Piotrowski</author>
     <content src="index.html" />
     <access origin="*" />
@@ -87,4 +87,9 @@
     <plugin name="ionic-plugin-keyboard" spec="^2.2.1" />
     <engine name="ios" spec="~4.5.4" />
     <engine name="android" spec="~7.1.0" />
+	<preference name="android-build-tool" value="gradle" />
+<preference name="phonegap-version" value="cli-7.1.0" />
+<plugin name="cordova-plugin-admobpro" source="npm">
+<variable name="PLAY_SERVICES_VERSION" value="16.0.0" />
+</plugin>
 </widget>
